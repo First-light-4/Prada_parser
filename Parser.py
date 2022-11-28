@@ -88,6 +88,7 @@ def download_information(href, name_folder):
     return info
 
 def main():
+
     # creating the main page in json format
     start_folder = 'main_folder'
     url = "https://www.prada.com/gb/en.html/"
